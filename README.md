@@ -1,5 +1,7 @@
 # RTFM Skeleton
 
+[![Join the chat at https://gitter.im/patlegu/grav-skeleton-rtfm-site](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/patlegu/grav-skeleton-rtfm-site?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![RTFM Screenshot](assets/rtfm-screenshot.png)
 
 This is a sample skeleton site that mimics the official Grav documentation: http://learn.getgrav.org.  This skeleton uses the [learn2 theme](https://github.com/getgrav/grav-theme-learn2)
